@@ -17,6 +17,7 @@
 | 06 | [计算机组成 (Architecture)](06-computer-architecture/) | ⬜ 待开始 | |
 | 07 | [AI 数学基础 (Math for AI)](07-math-for-ai/) | ⬜ 待开始 | 线代/概率/微积分 |
 | 08 | [机器学习 (ML)](08-machine-learning/) | ⬜ 待开始 | 待基础完成后 |
+| 09 | [Git 版本控制](09-git/) | 🔥 进行中 | Git 基础 + 远程协作实操 |
 
 ---
 
