@@ -25,20 +25,6 @@
 | 08 | [Machine Learning 机器学习](08-machine-learning/) | ⬜ To Start 待开始 | Start learning after finishing all basic CS courses 完成基础后开启学习 |
 | 09 | [Git Version Control Git版本控制](09-git/) | 🔥 In Progress 进行中 | Git basics + remote collaborative operation Git基础 + 远程团队协作实操 |
 
----
-
-## 📖 Current Progress: Database | 当前学习进度：数据库
-### Course: Harvard CS50's Intro to Databases with SQL
-#### Chapter Schedule & Notes Directory 课程章节与笔记目录
-| Chapter No. | Content 章节内容 | Course Timestamp 课程时间区间 |
-|:---:|:---------------------|:------------------|
-| [01 - SQL Fundamentals SQL基础](03-database/01-sql-fundamentals/) | DB introduction, SQLite setup, basic query/filter/sort, aggregate functions<br>数据库简介、SQLite环境配置、基础查询/过滤/排序、聚合函数 | 00:04 – 01:06:22 |
-| [02 - Database Design 数据库设计](03-database/02-database-design/) | DISTINCT keyword, data redundancy, ER diagram, one-to-many & many-to-many, primary & foreign keys<br>去重关键字、数据冗余、ER实体关系图、一对多/多对多、主键外键 | 01:17:08 – 01:49:13 |
-| [03 - Advanced Queries 高级查询](03-database/03-advanced-queries/) | Subqueries, IN operator, JOIN (INNER/LEFT/RIGHT/FULL), set operations<br>子查询、IN操作符、各类连接、集合运算 | 01:49:13 – 02:37:37 |
-| [04 - Schema & Data Manipulation 表结构与数据操作](03-database/04-schema-and-data-manipulation/) | Database normalization, table creation, data types, constraints, ALTER / INSERT / DELETE / UPDATE<br>三大范式、建表语法、数据类型、字段约束、增删改改表语句 | 02:52:56 – 05:25:20 |
-| [05 - Advanced Database Features 数据库高级特性](03-database/05-advanced-features/) | Triggers, soft delete, many-to-many implementation, VIEW, CTE, data anonymization<br>触发器、软删除、多对多实现、视图、公用表表达式、数据脱敏 | 05:49:09 – 07:31:17 |
-| [06 - Performance & Transactions 性能优化与事务](03-database/06-performance-and-transactions/) | Index, VACUUM, ACID principle, concurrent isolation levels<br>索引、空间回收、事务ACID四大特性、并发隔离级别 | 07:31:17 – 09:01:45 |
-| [07 - DB Systems & Security 主流数据库与安全防护](03-database/07-database-systems-and-security/) | MySQL vs PostgreSQL vs SQLite, stored procedures, replication & sharding, SQL injection prevention<br>三大数据库对比、存储过程、分库分表主从复制、SQL注入防御 | 09:01:45 – End |
 
 ---
 
